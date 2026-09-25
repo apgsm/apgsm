@@ -30,7 +30,7 @@
 | 领域 | 技能/工具 |
 |------|-----------|
 | **编程语言** | C++, Python (学习中), HTML/CSS |
-| **竞赛** | OI / 信息学竞赛 (CSP-J/S 备战中) |
+| **竞赛** | OI / 信息学竞赛 |
 | **操作系统** | Linux (Ubuntu/Arch), Windows, Android |
 | **刷机相关** | Fastboot, ADB, Magisk, TWRP, Custom ROMs |
 | **开发工具** | VS Code, Git, Vim (刚入门) |
@@ -41,7 +41,7 @@
 
 ## 🚀 正在做的事
 
-- [ ] 准备 CSP-J/S 初赛
+- [ ] 准备 CSP-J/S 第二轮认证
 
 ---
 
